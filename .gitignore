@@ -1,0 +1,7 @@
+*.ipynb
+
+instagram/script/__pycache__
+
+youtube/script/__pycache__
+youtube/result
+youtube/data
